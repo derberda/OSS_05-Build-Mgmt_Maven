@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+D:\OpenSource_05-Maven_Build-Mgmt\praktikum\.metadata\.plugins\org.eclipse.jdt.core
+1771703785.index
+2758276265.index
+402194679.index
+2115384038.index
+488106402.index
+2445284952.index
+1756245069.index
+766710352.index
+3371010778.index
+2073133776.index
+946673361.index
+1328079842.index
+1220657787.index
+3321838948.index
+1067094681.index
+3753246612.index
+3402373210.index
+662453733.index
+744005335.index
